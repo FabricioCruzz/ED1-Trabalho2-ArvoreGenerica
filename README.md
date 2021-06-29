@@ -2,7 +2,7 @@
 
 Desenvolvido por: Fabricio Adriano da Cruz
 
-Este repositório contém os arquivos de uma estrutura de dados em árvore para cadastrar um produto e suas sub-partes, todos sendo inseridos pelo usuário via teclado. Este projeto foi desenvolvido em linguagem JAVA, como parte de um trabalho para a disciplina de Estrtura de Dados.
+Este repositório contém os arquivos de uma estrutura de dados em árvore genérica para cadastrar um produto e suas sub-partes, todos sendo inseridos pelo usuário via teclado. Este projeto foi desenvolvido em linguagem JAVA, como parte de um trabalho para a disciplina de Estrtura de Dados.
 
 Ao iniciar o programa, é apresentado um menu ao usuário com as opções para cadastrar um produto e suas sub-partes, para mostrar as partes mais simples do produto e uma opção para realizar o cálculo do valor total do produto cadastrado.
 
